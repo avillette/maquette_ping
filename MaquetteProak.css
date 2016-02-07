@@ -20,8 +20,10 @@ nav {
     background: linear-gradient(#65ba5b, #3E9935);
 }
 
-.foot {
+.footerProak {
     background-color: #65ba5b;
+    position:relative;
+    bottom:0;
 }
 
 .background1 {
@@ -34,8 +36,6 @@ nav {
     background-color: #333;
 }
 
-
-
 a {
     color: white;
 }
@@ -44,3 +44,4 @@ a {
     color: white;
     background-color: #76c26d;
 }
+
